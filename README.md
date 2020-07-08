@@ -16,8 +16,8 @@
 - **Requests** *Used for HTTP requests (web scraping*) 
 `pip install requests`. 
 *Use `pip3` if `pip` does not work.* 
-> Create a `last_seen_id.txt` file in the same directory where the code is which will store the last seen tweet's id.
-
+> Create a `last_seen_id.txt` file in the same directory where the code is which will store the last seen tweet's id. *Add the id for the first time manually*
+> Or use the one in the repo, no need to change the id for starters, the code will automatically update. 
 ## Features 
 - When a user mentions the bot and uses the ***#helloworld*** hashtag, the bot likes the tweet, retweets and follows the user. 
     - This is done using the functions available in Tweepy. 
