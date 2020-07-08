@@ -1,5 +1,5 @@
 # TweeBot
-#### A Twitter Bot that responds to tweets, updates weather, news and COVID-19 stats
+#### A Twitter Bot that responds to tweets, updates weather, news and COVID-19 stats. [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)]
 ***Built in Python***
 ## Setting up 
 - First of all create a *Twitter Developer account* <a href="https://developer.twitter.com/en" target="_blank">`https://developer.twitter.com/en`</a> .
@@ -10,13 +10,13 @@
 
 ---
 ## Libraries used
-- Tweepy *Used to access the Twitter API* 
+- **Tweepy** *Used to access the Twitter API* 
 `pip install tweepy`.
-- Pyowm *Used to access the Weather API* 
+- **Pyowm** *Used to access the Weather API* 
 `pip install pyowm`. 
-- Requests *Used for HTTP requests (web scraping*) 
+- **Requests** *Used for HTTP requests (web scraping*) 
 `pip install requests`. 
-
+*Use `pip3` if `pip` does not work.* 
 > Create a `last_seen_id.txt` file in the same directory where the code is which will store the last seen tweet's id.
 ---
 ## Contributing
@@ -50,3 +50,8 @@ Reach out to me at one of the following places! ✌🏼
 
 ---
 
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
