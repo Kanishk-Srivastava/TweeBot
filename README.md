@@ -1,4 +1,4 @@
-# TweeBot
+# TweeBot <a href="https://twitter.com/TweeBot22" target="_blank">`@TweeBot22`</a>
 #### A Twitter Bot that responds to tweets, updates weather, news and COVID-19 stats. ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
 ***Built in Python***
 ## Setting up 
@@ -6,7 +6,7 @@
 - Then create an app which will provide you with **Consumer API keys** and **Access keys** in the keys and token section.
 - For Weather API, go to <a href="https://openweathermap.org/" target="_blank">`https://openweathermap.org/`</a> and obtain the API keys. 
 - Check your Python version in terminal/command line using `python --version` or `python3 --version`. 
-- You can also use pythonanywhere.com. 
+- You can also use pythonanywhere.com and host the python script so that it works even if you shut down your computer. *Needs to be refreshed every 7-8 hours if using the free account.* 
 
 ## Libraries used
 - **Tweepy** *Used to access the Twitter API* 
