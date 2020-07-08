@@ -8,7 +8,6 @@
 - Check your Python version in terminal/command line using `python --version` or `python3 --version`. 
 - You can also use pythonanywhere.com. 
 
----
 ## Libraries used
 - **Tweepy** *Used to access the Twitter API* 
 `pip install tweepy`.
@@ -18,7 +17,7 @@
 `pip install requests`. 
 *Use `pip3` if `pip` does not work.* 
 > Create a `last_seen_id.txt` file in the same directory where the code is which will store the last seen tweet's id.
----
+
 ## Contributing
 
 > To get started... 👨🏻‍💻 
@@ -39,7 +38,7 @@
 
 - 🔃 Create a new pull request using <a href="https://github.com/Kanishk-Srivastava/TweeBot/compare/" target="_blank">`https://github.com/Kanishk-Srivastava/TweeBot/compare/`</a>.
 
----
+
 
 ## Support
 
@@ -48,7 +47,7 @@ Reach out to me at one of the following places! ✌🏼
 - Twitter at <a href="https://twitter.com/Kanishk2209" target="_blank">`@Kanishk2209`</a>
 - Connect with me on LinkedIn <a href="https://www.linkedin.com/in/kanishks22/"  target="_blank">`Kanishk Srivastava`</a>
 
----
+
 
 ## License
 
