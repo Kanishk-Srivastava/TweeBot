@@ -7,8 +7,9 @@
 - For Weather API, go to <a href="https://openweathermap.org/" target="_blank">`https://openweathermap.org/`</a> and obtain the API keys. 
 - Check your Python version in terminal/command line using `python --version` or `python3 --version`. 
 - You can also use pythonanywhere.com. 
+
 ---
-### Libraries used
+## Libraries used
 - Tweepy *Used to access the Twitter API* 
 `pip install tweepy`.
 - Pyowm *Used to access the Weather API* 
@@ -16,7 +17,7 @@
 - Requests *Used for HTTP requests (web scraping*) 
 `pip install requests`. 
 
-> Create a `last_seen_id.txt` file which will store the last seen tweet's id. 
+> Create a `last_seen_id.txt` file in the same directory where the code is which will store the last seen tweet's id.
 ---
 ## Contributing
 
@@ -39,3 +40,13 @@
 - 🔃 Create a new pull request using <a href="https://github.com/Kanishk-Srivastava/TweeBot/compare/" target="_blank">`https://github.com/Kanishk-Srivastava/TweeBot/compare/`</a>.
 
 ---
+
+## Support
+
+Reach out to me at one of the following places! ✌🏼
+
+- Twitter at <a href="https://twitter.com/Kanishk2209" target="_blank">`@Kanishk2209`</a>
+- Connect with me on LinkedIn <a href="https://www.linkedin.com/in/kanishks22/"  target="_blank">`Kanishk Srivastava`</a>
+
+---
+
