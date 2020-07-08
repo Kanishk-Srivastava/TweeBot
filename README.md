@@ -1,5 +1,5 @@
 # TweeBot
-#### A Twitter Bot that responds to tweets, updates weather, news and COVID-19 stats. [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)]
+#### A Twitter Bot that responds to tweets, updates weather, news and COVID-19 stats. ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
 ***Built in Python***
 ## Setting up 
 - First of all create a *Twitter Developer account* <a href="https://developer.twitter.com/en" target="_blank">`https://developer.twitter.com/en`</a> .
