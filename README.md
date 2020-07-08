@@ -18,6 +18,14 @@
 *Use `pip3` if `pip` does not work.* 
 > Create a `last_seen_id.txt` file in the same directory where the code is which will store the last seen tweet's id.
 
+## Features 
+- When a user mentions the bot and uses the #helloworld hashtag, the bot likes the tweet, retweets and follows the user. 
+    - This is done using the functions available in Tweepy. 
+- When a user mentions and uses the #weatherupdate hashtag, the bot will like, retweet and follow the user if not followed already and tweet a weather update. Each weather status has an emoticon assigned to it. 
+- When a user mentions and uses the #newsupdate hashtag, the bot will like, retweet and follow the user if not followed already and post the 8-12 top live news. 
+    - This is done using the `newsapi.org` API and HTTP requests. The website has various sources from which user can scrape the top live news. 
+- When a user mentions and uses the #covidupdate hashtag, the bot updates the COVID-19 stats of India. 
+    - This is done by scraping the information from `https://www.worldometers.info/coronavirus/country/india/`. 
 ## Contributing
 
 > To get started... 👨🏻‍💻 
